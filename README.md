@@ -2,6 +2,8 @@
 ## Overview of the loan prediction risk analysis:
 Predicting credit risk is an imbalanced classifaction problem since default is relatively rare compared to good loans. Jill has asked us to apply imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. 
 
+It is our aim to identify a machine learning model that will accurately predict bad loans, and minimize the number of mislabeled good loans. 
+
 ## Results:
 ### Oversampling Models
 #### Naive Random OverSampling Results:
